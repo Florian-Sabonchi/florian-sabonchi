@@ -1,3 +1,6 @@
+<img src="./about.gif">
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=FlorianJSa&theme=gotham">
 
 
@@ -11,5 +14,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" lign="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" lign="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" lign="left"/>
+
 
 
