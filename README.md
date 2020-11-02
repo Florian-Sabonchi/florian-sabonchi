@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./about.gif">
 </p>
+
 ---
 
 <p align="center">
