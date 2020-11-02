@@ -7,7 +7,7 @@
 ## Languages and tools
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" lign="left"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  width="40" height="40" lign="left"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="debian" width="40" height="40" lign="left"/>
