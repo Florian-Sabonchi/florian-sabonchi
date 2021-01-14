@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="./about.gif">
-</p>
-
----
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FlorianJSa&theme=gotham">
 </p>
 
