@@ -29,7 +29,7 @@
     <tbody>
         <tr>
             <td align="center">
-              <a href="https://discord.gg/EYcJzspr">@Florian#6583</a>
+              <a href="https://discord.gg/EYcJzspr">@FlorianJSa#6583</a>
             </td>
             <td align="center">
               <a href="https://twitter.com/FlorianJSa">@FlorianJSa</a>
