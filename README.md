@@ -22,4 +22,4 @@
 
 - [FlorianJSa/pgadmin4](https://github.com/FlorianJSa/pgadmin4) -  Mirror of the pgAdmin 4 GIT repo
 - [FlorianJSa/PyDrocsid](https://github.com/PyDrocsid) - Discord Bot for TheMorpheus
-- [Felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (today)
+- [Felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide
