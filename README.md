@@ -20,6 +20,6 @@
 
 ### :seedling: My latest projects
 
-- [FlorianJSa/pgadmin4](https://github.com/FlorianJSa/pgadmin4) -  Mirror of the pgAdmin 4 GIT repo
+- [FlorianJSa/pgadmin4](https://github.com/postgres/pgadmin4/commit/48ca83f31dee76c05edb6b64a595964968ec7eb2) -  OAuth2 implementation
 - [FlorianJSa/PyDrocsid](https://github.com/PyDrocsid) - Discord Bot for TheMorpheus
 - [Felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide
