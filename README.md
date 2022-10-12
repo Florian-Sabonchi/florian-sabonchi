@@ -24,3 +24,4 @@
 - [FlorianJSa/PyDrocsid](https://github.com/PyDrocsid) - Discord Bot for TheMorpheus
 - [Felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - a privacy centric matrix client
+- [helpwave/mobile-app](https://github.com/helpwave/mobile-app) - The official helpwave mobile app for android and ios
