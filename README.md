@@ -21,7 +21,6 @@
 ### :seedling: My latest projects
 
 - [florian-sabonchi/pgadmin4](https://github.com/postgres/pgadmin4/commit/48ca83f31dee76c05edb6b64a595964968ec7eb2) -  OAuth2 implementation
-- [florian-sabonchi/PyDrocsid](https://github.com/PyDrocsid) - Discord Bot for TheMorpheus
 - [Felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - a privacy centric matrix client
 - [helpwave/mobile-app](https://github.com/helpwave/mobile-app) - The official helpwave mobile app for android and ios
