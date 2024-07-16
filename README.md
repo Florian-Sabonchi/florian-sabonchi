@@ -21,5 +21,5 @@
 ### :seedling: My latest projects
 
 - [Fl0r14nJ/pgadmin4](https://github.com/postgres/pgadmin4/commit/48ca83f31dee76c05edb6b64a595964968ec7eb2) -  OAuth2 implementation
-- [syphon-org/syphon](https://github.com/syphon-org/syphon/commits/dev/?author=florian-sabonchi) - a privacy centric matrix client
-- [home-assistant/core](https://github.com/home-assistant/core/commits?author=florian-sabonchi)  - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
+- [syphon-org/syphon](https://github.com/syphon-org/syphon/commits/dev/?author=Fl0r14nJ) - a privacy centric matrix client
+- [home-assistant/core](https://github.com/home-assistant/core/commits?author=Fl0r14nJ)  - Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
